@@ -3,12 +3,37 @@
 </center>
 <p style="padding-left: 90px;">
 The Lean Six Sigma Expert Masters Program is designed to help you master two important management methodologies – Lean and Six Sigma – that have been brought together to accelerate business improvement. Fast track your career with this course that will give you the management qualities businesses look for and become the go-to professional for quality management projects.
+
+<br><br>
 <span style="font-weight: 200;">&nbsp;</span><strong>What are the course objectives?</strong><br><br>
 The Lean Six Sigma Expert Masters Program is aimed at helping you master Lean and Six Sigma principles and methodologies. As organizations strive for continuous improvement, they seek management professionals that can employ problem solving and business know-how to enhance internal processes. This course positions you to take the lead in quality management projects.<br><br>
 The Lean Management course is the foundation for this master’s program and shows you how to optimize end-to-end processes to increase quality and drive maximum value in any business. The next stage focuses on the Lean Six Sigma Green Belt, which explains the core principles of Lean Six Sigma, how to implement quality projects and specific industry applications. You’ll also learn to use the statistical Minitab tool to enable effective statistical analysis for projects.<br><br>
-After completing these three courses, you will be prepared for becoming a Lean Six Sigma Black Belt, which is the final step to becoming a Lean Six Sigma expert and validating your ability. We also suggest taking courses in Lean Six Sigma in IT/Healthcare based on your domain.<br><br>
+After completing these three courses, you will be prepared for becoming a Lean Six Sigma Black Belt, which is the final step to becoming a Lean Six Sigma expert and validating your ability. We also suggest taking courses in Lean Six Sigma in IT/Healthcare based on your domain.
+<br><br>
+<hr>
+<span style="font-weight: 200;">&nbsp;</span><strong>Why be a Lean Six Sigma Expert?</span>
+40% of the managers in top companies are Lean certified, and Lean Six Sigma Experts earn 40% more than their non-certified peers. Lean Six Sigma Experts generally work in the following profiles:
+<ul>
+    <li>Quality Supervisor</li>
+    <li>Quality Manager</li>
+    <li>Quality Engineer</li>
+    <li>Quality Director</li>
+    <li>Lean Six Sigma Expert</li>
+</ul>
+You’ll learn how to apply Lean Six Sigma tools, techniques and concepts to improve efficiency, reduce waste, increase throughput, and standardize complex business/technical processes in your organization.
+<br><br>
+<hr>
+<span style="font-weight: 200;">&nbsp;</span><strong>Who should take this course?</span>
+Lean Six Sigma is a framework that is not limited to a particular industry. Any professional looking to learn how to improve organizational efficiency can become a Lean Six Sigma expert. Specific professionals who typically take this course include:
+<ul>
+    <li>Quality Control supervisors/ Engineers/ Managers</li>
+    <li>IT analysts</li>
+    <li>Project Managers</li>
+    <li>Enthusiasts of Lean Management</li>
+   <li> Six Sigma Professionals</li>
+</ul>
 </p>
-<br>
+<br><br>
 
 <ul>
 <li style="font-weight: 400;">
