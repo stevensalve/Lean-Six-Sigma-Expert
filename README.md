@@ -4,7 +4,11 @@
 <p style="padding-left: 90px;">
 The Lean Six Sigma Expert Masters Program is designed to help you master two important management methodologies – Lean and Six Sigma – that have been brought together to accelerate business improvement. Fast track your career with this course that will give you the management qualities businesses look for and become the go-to professional for quality management projects.
 
+<<<<<<< HEAD
 <span style="font-weight: 200;">&nbsp;</span><strong>What are the course objectives?</strong><br><br>
+=======
+<span style="font-weight: 200;">&nbsp;</span><strong>What are the course objectives?</strong><br>
+>>>>>>> 2183c3111ce3dbf7128916c6e781b8a33cce7af6
 The Lean Six Sigma Expert Masters Program is aimed at helping you master Lean and Six Sigma principles and methodologies. As organizations strive for continuous improvement, they seek management professionals that can employ problem solving and business know-how to enhance internal processes. This course positions you to take the lead in quality management projects.<br><br>
 The Lean Management course is the foundation for this master’s program and shows you how to optimize end-to-end processes to increase quality and drive maximum value in any business. The next stage focuses on the Lean Six Sigma Green Belt, which explains the core principles of Lean Six Sigma, how to implement quality projects and specific industry applications. You’ll also learn to use the statistical Minitab tool to enable effective statistical analysis for projects.<br><br>
 After completing these three courses, you will be prepared for becoming a Lean Six Sigma Black Belt, which is the final step to becoming a Lean Six Sigma expert and validating your ability. We also suggest taking courses in Lean Six Sigma in IT/Healthcare based on your domain.<br><br>
@@ -24,7 +28,10 @@ After completing these three courses, you will be prepared for becoming a Lean S
             <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 3 : Simplilearn Lean Management Exam Paper 1</span></a></p></li>
             <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 4 : Simplilearn Lean Management Exam Paper 2</span></a></p></li>
         </ul>
+<<<<<<< HEAD
 <br>
+=======
+>>>>>>> 2183c3111ce3dbf7128916c6e781b8a33cce7af6
 <li style="font-weight: 400;">
         <h1><strong>Section 2 - Lean Six Sigma Green Belt (LSSGB)</strong></h1>
 </li>
@@ -42,16 +49,25 @@ After completing these three courses, you will be prepared for becoming a Lean S
             <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Project 1 : Hospital POS</span></a></p></li>
             <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Project 2 : Bank Call Centers</span></a></p></li>
         </ul>
+<<<<<<< HEAD
 <br>
+=======
+>>>>>>> 2183c3111ce3dbf7128916c6e781b8a33cce7af6
 <li style="font-weight: 400;">
         <h1><strong>Section 3 - Minitab</strong></h1>
 </li>
     <p style="padding-left: 90px;">This course ensures that you learn the practical applications of the latest version of the statistical tool, Minitab® 17 and excel at the tools used by both Lean Six Sigma Green Belt and Black Belt professionals. The course covers 9 case studies in the domains of Healthcare, IT and IT Services, and Manufacturing, and each case study describes a problem and its solution using Minitab® 17.</p>
+<<<<<<< HEAD
 
 <br> 
 <li style="font-weight: 400;">
             <h1><strong>Section 4 - Lean Six Sigma Black Belt (LSSBB)</strong></h1>
 </li>
+=======
+    <li style="font-weight: 400;">
+            <h1><strong>Section 4 - Lean Six Sigma Black Belt (LSSBB)</strong></h1>
+    </li>
+>>>>>>> 2183c3111ce3dbf7128916c6e781b8a33cce7af6
         <p style="padding-left: 90px;">The Lean Six Sigma Black Belt training is the most exclusive certification for the Lean Six Sigma quality management methodology. This Six Sigma Black Belt certification course is the final stage of the Masters program that will position you as an expert in implementing Lean, Design for Six Sigma (DFSS), Six Sigma Define, Measure, Analyze, Improve and Control (DMAIC) and Total Productive Maintenance (TPM). Join this exclusive worldwide group of 4000 certified Lean Six Sigma Black Belts today.</p>
         <p style="padding-left: 90px;"><span style="font-weight: 200;">&nbsp;</span><strong>Simulation Test</strong></p>
         <ul>
