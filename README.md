@@ -6,6 +6,8 @@
 <li style="font-weight: 400;">
         <h1><strong>Section 1 - Lean Management</strong></h1>
 </li>
+ <p style="padding-left: 90px;">
+Learn the concepts and principles of Lean management in this training course, where you’ll learn how to streamline your processes and drive the best value for your business. This Lean Management Certification course is crafted by industry experts and is ideal for quality management professionals.</p>
 <p style="padding-left: 90px;"><span style="font-weight: 200;">&nbsp;</span><strong>Simulation Test</strong></p>
     <ul>
         <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 1 : Full Length Lean Management Simulation Test 1</span></a></p></li>
