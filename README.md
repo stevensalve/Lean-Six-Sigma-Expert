@@ -1,5 +1,5 @@
 <center>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<h1 style="color:red"><em><strong>Master Program Certificate &nbsp; -  Lean Six Sigma Expert</strong></em></h1>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<h1 style="color:red"><em><strong>Master Program Certificate &nbsp; -  Lean Six Sigma Expert</strong></em></h1>
 </center>
 
 <ul>
