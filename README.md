@@ -4,12 +4,12 @@
 <p style="padding-left: 90px;">
 The Lean Six Sigma Expert Masters Program is designed to help you master two important management methodologies – Lean and Six Sigma – that have been brought together to accelerate business improvement. Fast track your career with this course that will give you the management qualities businesses look for and become the go-to professional for quality management projects.
 
-<span style="font-weight: 200;">&nbsp;</span><strong>What are the course objectives?</strong>
+<span style="font-weight: 200;">&nbsp;</span><strong>What are the course objectives?</strong><br>
 The Lean Six Sigma Expert Masters Program is aimed at helping you master Lean and Six Sigma principles and methodologies. As organizations strive for continuous improvement, they seek management professionals that can employ problem solving and business know-how to enhance internal processes. This course positions you to take the lead in quality management projects.<br><br>
 The Lean Management course is the foundation for this master’s program and shows you how to optimize end-to-end processes to increase quality and drive maximum value in any business. The next stage focuses on the Lean Six Sigma Green Belt, which explains the core principles of Lean Six Sigma, how to implement quality projects and specific industry applications. You’ll also learn to use the statistical Minitab tool to enable effective statistical analysis for projects.<br><br>
 After completing these three courses, you will be prepared for becoming a Lean Six Sigma Black Belt, which is the final step to becoming a Lean Six Sigma expert and validating your ability. We also suggest taking courses in Lean Six Sigma in IT/Healthcare based on your domain.<br><br>
 </p>
-<br><br><br>
+<br>
 
 <ul>
 <li style="font-weight: 400;">
