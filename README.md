@@ -1,6 +1,6 @@
 <center>
-<h1 style="text-align: center;"><em><strong>Master Program Certificate&nbsp;</strong></em></h1>
-<h1 style="text-align: center;"><em><strong>Lean Six Sigma Expert</strong></em></h1>
+<h1><em><strong>Master Program Certificate&nbsp;</strong></em></h1>
+<h1 ><em><strong>Lean Six Sigma Expert</strong></em></h1>
 </center>
 
 <ul>
