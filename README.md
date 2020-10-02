@@ -1,121 +1,68 @@
-<p dir="ltr" style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:36pt;font-family:Arial;color:#111111;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Master Program Certificate&nbsp;</span></p>
-<p dir="ltr" style="line-height:1.38;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:23.5pt;font-family:Arial;color:#cc0000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Expert</span></p>
-<p><br></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:22pt;font-family:'Times New Roman';color:#dd7e6b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:22pt;font-family:'Times New Roman';color:#dd7e6b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Management</span></p>
-    </li>
-</ol>
-<p><br></p>
-<p dir="ltr" style="line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Simulation Test</span></p>
-<p><br></p>
-<ol start="2" style="margin-top:0;margin-bottom:0;">
-    <ol style="margin-top:0;margin-bottom:0;">
-        <li dir="ltr" style="list-style-type:lower-alpha;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
-            <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style='font-size: 12pt; font-family: "Times New Roman"; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal;  text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;'><u>Test 1 : Full Length Lean Management Simulation Test 1</u></span></p>
-        </li>
-        <li dir="ltr" style="list-style-type:lower-alpha;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
-            <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><u><span style="color: rgb(0, 0, 0);"><span style='font-size: 12pt; font-family: "Times New Roman"; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;'>Test 2 : Full Length Lean Management Simulation Test 2</span></span></u></p>
-        </li>
-        <li dir="ltr" style="list-style-type:lower-alpha;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
-            <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><u><span style="color: rgb(0, 0, 0);"><span style='font-size: 12pt; font-family: "Times New Roman"; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal;  text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;'>Test 3 : Simplilearn Lean Management Exam Paper 1</span></span></u></p>
-        </li>
-        <li dir="ltr" style="list-style-type:lower-alpha;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
-            <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style='font-size: 12pt; font-family: "Times New Roman"; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal;text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;'><u>Test 4 : Simplilearn Lean Management Exam Paper 2</u></span></p>
-        </li>
-    </ol>
-</ol>
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span class="Apple-tab-span" style="white-space:pre;">&nbsp; &nbsp;&nbsp;</span></span></p>
-<ol start="2" style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:22pt;font-family:'Times New Roman';color:#dd7e6b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:22pt;font-family:'Times New Roman';color:#dd7e6b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Green Belt (LSSGB)</span></p>
-    </li>
-</ol>
-<p dir="ltr" style="line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p>
-<p dir="ltr" style="line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Simulation Test</span></p>
-<p><br></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">LSSGB Simulation ASQ Test Paper 1</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">LSSGB Simulation IASSC Test Paper 2</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">LSSGB Simulation ASQ Test Paper 3</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">LSSGB Simulation IASSC Test Paper 4</span></p>
-    </li>
-</ol>
-<p><br></p>
-<p dir="ltr" style="line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Project</span></p>
-<p><br></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Hospital POS</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Bank Call Center</span></p>
-    </li>
-</ol>
-<p><br></p>
-<ol start="3" style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:22pt;font-family:'Times New Roman';color:#dd7e6b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:22pt;font-family:'Times New Roman';color:#dd7e6b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Minitab</span></p>
-    </li>
-</ol>
-<p><br></p>
-<p dir="ltr" style="line-height:1.38;margin-left: 36pt;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Simulation Test</span></p>
-<p><br></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Black Belt Full Length Simulation Test 1</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Black Belt Full Length Simulation Test 2</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Black Belt Full Length Simulation Test 3</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Black Belt Full Length Simulation Test 4</span></p>
-    </li>
-</ol>
-<p><br></p>
-<p><br></p>
-<ol start="4" style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:22pt;font-family:'Times New Roman';color:#dd7e6b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:22pt;font-family:'Times New Roman';color:#dd7e6b;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Black Belt (LSSBB)</span></p>
-    </li>
-</ol>
-<p><br></p>
-<p dir="ltr" style="line-height:1.38;text-indent: 36pt;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Simulation Test</span></p>
-<p><br></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Black Belt Full Length Simulation Test 1</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Black Belt Full Length Simulation Test 2</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Black Belt Full Length Simulation Test 3</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Lean Six Sigma Black Belt Full Length Simulation Test 4</span></p>
-    </li>
-</ol>
-<p><br></p>
-<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:23.5pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span class="Apple-tab-span" style="white-space:pre;">&nbsp; &nbsp;&nbsp;</span></span><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Project</span></p>
-<p><br></p>
-<ol style="margin-top:0;margin-bottom:0;">
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Hotel Coopergates Revenue Decline</span></p>
-    </li>
-    <li dir="ltr" style="list-style-type:decimal;font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: 36pt;">
-        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:12pt;font-family:'Times New Roman';color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Rexon Movie Theater</span></p>
-    </li>
-</ol>
-<p><br></p>
-<p><br></p>
+<center>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<h1 style="color:red"><em><strong>Master Program Certificate &nbsp; -  Lean Six Sigma Expert</strong></em></h1>
+</center>
+<p style="padding-left: 90px;">
+The Lean Six Sigma Expert Masters Program is designed to help you master two important management methodologies – Lean and Six Sigma – that have been brought together to accelerate business improvement. Fast track your career with this course that will give you the management qualities businesses look for and become the go-to professional for quality management projects.
+
+<span style="font-weight: 200;">&nbsp;</span><strong>What are the course objectives?</strong><br><br>
+The Lean Six Sigma Expert Masters Program is aimed at helping you master Lean and Six Sigma principles and methodologies. As organizations strive for continuous improvement, they seek management professionals that can employ problem solving and business know-how to enhance internal processes. This course positions you to take the lead in quality management projects.<br><br>
+The Lean Management course is the foundation for this master’s program and shows you how to optimize end-to-end processes to increase quality and drive maximum value in any business. The next stage focuses on the Lean Six Sigma Green Belt, which explains the core principles of Lean Six Sigma, how to implement quality projects and specific industry applications. You’ll also learn to use the statistical Minitab tool to enable effective statistical analysis for projects.<br><br>
+After completing these three courses, you will be prepared for becoming a Lean Six Sigma Black Belt, which is the final step to becoming a Lean Six Sigma expert and validating your ability. We also suggest taking courses in Lean Six Sigma in IT/Healthcare based on your domain.<br><br>
+</p>
+<br>
+
+<ul>
+<li style="font-weight: 400;">
+        <h1><strong>Section 1 - Lean Management</strong></h1>
+</li>
+    <p style="padding-left: 90px;">
+    Learn the concepts and principles of Lean management in this training course, where you’ll learn how to streamline your processes and drive the best value for your business. This Lean Management Certification course is crafted by industry experts and is ideal for quality management professionals.</p>
+    <p style="padding-left: 90px;"><span style="font-weight: 200;">&nbsp;</span><strong>Simulation Test</strong></p>
+        <ul>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 1 : Full Length Lean Management Simulation Test 1</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 2 : Full Length Lean Management Simulation Test 2</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 3 : Simplilearn Lean Management Exam Paper 1</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 4 : Simplilearn Lean Management Exam Paper 2</span></a></p></li>
+        </ul>
+<br>
+<li style="font-weight: 400;">
+        <h1><strong>Section 2 - Lean Six Sigma Green Belt (LSSGB)</strong></h1>
+</li>
+    <p style="padding-left: 90px;">
+    The Lean Six Sigma Green Belt Certification program is the second stage in the Lean Six Sigma Masters program. You’ll learn the core principles of Lean Six Sigma, how to implement quality projects and applications, and how to use the Minitab tool for effective statistical analysis. The course is aligned to IASSC exam, integrates lean and DMAIC methodologies using case studies and real-life examples, and will give you the skills to empower your organization for continuous improvement.</p>
+        <p style="padding-left: 90px;"><span style="font-weight: 200;">&nbsp;</span><strong>Simulation Test</strong></p>
+        <ul>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 1 : LSSGB Simulation ASQ Test Paper 1</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 2 : FLSSGB Simulation IASSC Test Paper 2</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 3 : LSSGB Simulation ASQ Test Paper 3</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 4 : LSSGB Simulation IASSC Test Paper 4</span></a></p></li>
+        </ul>
+        <p style="padding-left: 90px;"><span style="font-weight: 200;">&nbsp;</span><strong>Project</strong></p>
+        <ul>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Project 1 : Hospital POS</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Project 2 : Bank Call Centers</span></a></p></li>
+        </ul>
+<br>
+<li style="font-weight: 400;">
+        <h1><strong>Section 3 - Minitab</strong></h1>
+</li>
+    <p style="padding-left: 90px;">This course ensures that you learn the practical applications of the latest version of the statistical tool, Minitab® 17 and excel at the tools used by both Lean Six Sigma Green Belt and Black Belt professionals. The course covers 9 case studies in the domains of Healthcare, IT and IT Services, and Manufacturing, and each case study describes a problem and its solution using Minitab® 17.</p>
+
+<br> 
+<li style="font-weight: 400;">
+            <h1><strong>Section 4 - Lean Six Sigma Black Belt (LSSBB)</strong></h1>
+</li>
+        <p style="padding-left: 90px;">The Lean Six Sigma Black Belt training is the most exclusive certification for the Lean Six Sigma quality management methodology. This Six Sigma Black Belt certification course is the final stage of the Masters program that will position you as an expert in implementing Lean, Design for Six Sigma (DFSS), Six Sigma Define, Measure, Analyze, Improve and Control (DMAIC) and Total Productive Maintenance (TPM). Join this exclusive worldwide group of 4000 certified Lean Six Sigma Black Belts today.</p>
+        <p style="padding-left: 90px;"><span style="font-weight: 200;">&nbsp;</span><strong>Simulation Test</strong></p>
+        <ul>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 1 : Lean Six Sigma Black Belt Full Length Simulation Test 1</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 2 : Lean Six Sigma Black Belt Full Length Simulation Test 2</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 3 : Lean Six Sigma Black Belt Full Length Simulation Test 3</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Test 4 : Lean Six Sigma Black Belt Full Length Simulation Test 4</span></a></p></li>
+        </ul>
+        <p style="padding-left: 90px;"><span style="font-weight: 200;">&nbsp;</span><strong>Project</strong></p>
+        <ul>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Project 1 : Hotel Coopergates Revenue Decline</span></a></p></li>
+            <li><p style="padding-left: 120px;"><span style="font-weight: 400;">Project 2 : Rexon Movie Theater</span></a></p></li>
+        </ul>
+</ul>
