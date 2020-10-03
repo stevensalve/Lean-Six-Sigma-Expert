@@ -1,5 +1,5 @@
 <center>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<h1 style="color:red"><em><strong>Master Program Certificate &nbsp; -  Lean Six Sigma Expert</strong></em></h1>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<h1 style="color:red"><em><strong>Master Program Certificate - Lean Six Sigma Expert</strong></em></h1>
 </center>
 <p style="padding-left: 90px;">
 The Lean Six Sigma Expert Masters Program is designed to help you master two important management methodologies – Lean and Six Sigma – that have been brought together to accelerate business improvement. Fast track your career with this course that will give you the management qualities businesses look for and become the go-to professional for quality management projects.
